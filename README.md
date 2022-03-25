@@ -20,4 +20,4 @@ The weekly fare trends shown in the figure shows almost similar trend for the th
 ![fig-1](https://github.com/nebil2016/PyBer_Analysis/blob/main/analysis/Fig_challenge.png)
 
 # 3. Summary
-
+Total fares, total rides and total number of drivers are highest in urban areas and lowest in rural city types. However, the fare per ride and per driver is highest in rural areas than in urban areas. This is expected because there are fewer rides in rural areas and it will be difficult to make profits with fewer rides. Further, the fares are also lowest in the four weeks march for all city types and in rural the areas fares substantially decline after the first week of April. The company needs to consider different prices in March for all city types to encourage more ride and also in April for the rural city type.
