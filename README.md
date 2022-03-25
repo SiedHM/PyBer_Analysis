@@ -11,7 +11,7 @@ This task is based on a data from a compay called PyBer which is a python based 
 Table-1 below shows the ride-sharing summary DataFrame. As shown in the table, interns of the total rides, total number of drivers and total fare, we can observe that these total values increase with level of urbanization and this is expected. More movement is expected in urban areas than in rural areas. However, in terms of the average fare per ride, we can observe that fares per ride are expensive in rural city types($34.62 in rural Vs. $24.53 in urban) and fares per ride is also highest in rural city type($55.49 in rural city type Vs. $16.57 urban city type).
 ### Table-1: Ride sharing summary by city type 
 
-![Table-1]()
+![Table-1](https://github.com/nebil2016/PyBer_Analysis/blob/main/analysis/Table-1-Ride-sharing%20summary.png)
 
 ## 2.2.  Total fares for each city type
 The weekly fare trends shown in the figure shows almost similar trend for the three types of cites. For the urban and suburban city type, there is an increasing trend in fares between January and 3rd week of February and decreasing trend in the four weeks of March. On the other hand, the fares in rural city type the fares substantially decreases after April while there is an increasing trend on the same time frame for the urban and suburban city type. 
